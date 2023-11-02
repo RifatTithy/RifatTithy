@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Tithy
+### Hi, I'm Tithy👋
 #### Product Engineer
 
 Skills: SQL / HTML / CSS 
